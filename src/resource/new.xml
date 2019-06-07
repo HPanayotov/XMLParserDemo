@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Catalogs>
+<catalog id="01">
+        <name>Mischael</name>
+        <title>author</title>
+        <price>40</price>
+</catalog>
+    <catalog id="02">
+        <name>Peter</name>
+        <title>worker</title>
+        <price>55</price>
+    </catalog>
+    <catalog id="03">
+        <name>Sam</name>
+        <title>singer</title>
+        <price>550</price>
+    </catalog>
+    <catalog id="04">
+        <name>Mobi</name>
+        <title>author</title>
+        <price>1052</price>
+    </catalog>
+    <catalog id="05">
+        <name>Steve</name>
+        <title>doctor</title>
+        <price>2564</price>
+    </catalog>
+    <catalog id="06">
+        <name>Krem</name>
+        <title>builder</title>
+        <price>555</price>
+    </catalog>
+    <catalog id="07">
+        <name>Nordel</name>
+        <title>poet</title>
+        <price>789</price>
+    </catalog>
+</Catalogs>
