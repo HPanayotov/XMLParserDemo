@@ -11,7 +11,7 @@ public class SAXParserDemo {
     public static void main(String[] args) {
 
         try {
-            File inputFile = new File("C:\\Users\\Hristo Panayotov\\Documents\\dataBaseDemo\\src\\resource\\new.xml");
+            File inputFile = new File("new.xml");
             SAXParserFactory factory = SAXParserFactory.newInstance();
             SAXParser saxParser = factory.newSAXParser();
             UserHandler userhandler = new UserHandler();

@@ -23,7 +23,7 @@ public class DOMParserDemo extends connect{
 
     public static void main(String[] args) {
 
-        String filePath = "C:\\Users\\Hristo Panayotov\\Documents\\dataBaseDemo\\src\\resource\\new.xml";
+        String filePath = "new.xml";
         File xmlFile = new File(filePath);
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder;

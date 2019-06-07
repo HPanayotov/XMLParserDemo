@@ -5,7 +5,7 @@ import java.sql.*;
 
 public class connect {
 
-    static final String DB_URL ="jdbc:sqlite:C:\\Users\\Hristo Panayotov\\Documents\\dataBaseDemo\\sqliteDemo.db";
+    static final String DB_URL ="jdbc:sqlite:sqliteDemo.db";
     public static void main(String[] args) {
          Connection con = null;
          Statement st = null;

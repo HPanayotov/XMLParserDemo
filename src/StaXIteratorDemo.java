@@ -14,7 +14,7 @@ public class StaXIteratorDemo {
 
     public static void main(String[] args) throws FileNotFoundException, XMLStreamException {
 
-        File file = new File("C:\\Users\\Hristo Panayotov\\Documents\\dataBaseDemo\\src\\resource\\new.xml");
+        File file = new File("new.xml");
         XMLInputFactory factory = XMLInputFactory.newInstance();
 
         XMLEventReader eventReader = factory.createXMLEventReader(new FileReader(file));
